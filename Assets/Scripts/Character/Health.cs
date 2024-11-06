@@ -11,7 +11,10 @@ public class Health : MonoBehaviour
     private int health;
     private Animator animator;
 
-
+    public int PlayerHealth 
+    { 
+        get { return maxHealth; } 
+    }
 
     private void Awake()
     {

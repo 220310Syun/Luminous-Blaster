@@ -20,18 +20,43 @@ public class EnemyRoom : MonoBehaviour
     [SerializeField]
     private EnemyRoomManager enemyRoomManager;
 
+    [SerializeField]
+    private BossMove boss;
+    [SerializeField]
+    private bool bossZone;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if(bossZone)
         {
-            if (enemyTarget == EnemyTarget.EnableTarget)
+            if (collision.CompareTag("Player"))
             {
-                enemyRoomManager.EnablePlayerTarget();
+                if (boss && enemyTarget == EnemyTarget.EnableTarget)
+                {
+                    boss.PlayerDetected(true);
+                }
+                else if(boss && enemyTarget == EnemyTarget.DisableTarget)
+                {
+                    boss.PlayerDetected(false);
+                }
             }
-            else
-            {
-                enemyRoomManager.DisablePlayerTarget();
-            }
+
         }
+        else
+        {
+            if (collision.CompareTag("Player"))
+            {
+              if (enemyTarget == EnemyTarget.EnableTarget)
+              {
+                enemyRoomManager.EnablePlayerTarget();
+              }
+              else
+              {
+                enemyRoomManager.DisablePlayerTarget();
+              }
+        }
+        }
+
+        
     }
 }

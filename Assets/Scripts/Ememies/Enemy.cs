@@ -32,6 +32,9 @@ public class Enemy : Movement
 
     private Animator animator;
 
+
+    private EnemyRoomManager enemyRoomManager;
+
     private void Start()
     {
         player = GameObject.FindWithTag("Player").transform;
@@ -44,8 +47,18 @@ public class Enemy : Movement
         enemyHealth = GetComponent<Health>();
 
         animator = GetComponent<Animator>();
+
+        enemyRoomManager = GetComponentInParent<EnemyRoomManager>();
     }
 
+
+    private void OnDisable()
+    {
+        if (!enemyHealth.IsAllive()) 
+        { 
+           enemyRoomManager.RemoveEnemy(this);
+        }
+    }
 
     private void FixedUpdate()
     {
@@ -158,6 +171,7 @@ public class Enemy : Movement
             attacked = true;
 
             collision.GetComponent<Health>().TakeDamage(damageAmount);
+            collision.GetComponent<PlayerHealthUI>().SubtrackHealth(damageAmount);
         }
     }
 

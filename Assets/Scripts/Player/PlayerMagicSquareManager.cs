@@ -21,7 +21,7 @@ public class PlayerMagicSquareManager : MonoBehaviour
     private float cameraShakeTimer = 0.2f;
 
 
-
+    private PlayerMagicUI playerMagicUI;
 
 
     private void Awake()
@@ -32,6 +32,8 @@ public class PlayerMagicSquareManager : MonoBehaviour
         cam = Camera.main;
 
         cameraShake = cam.GetComponent<CameraShake>();
+
+        playerMagicUI = GetComponent<PlayerMagicUI>();
     }
 
     private void Update()
@@ -54,6 +56,9 @@ public class PlayerMagicSquareManager : MonoBehaviour
 
             playerMagicSquares[magicSquareIndex ].gameObject.SetActive(true);
 
+
+            playerMagicUI.ChangeIcon(magicSquareIndex);
+
         }
         else if (Input.GetAxisRaw("Mouse ScrollWheel") < 0f)
         {
@@ -67,6 +72,8 @@ public class PlayerMagicSquareManager : MonoBehaviour
             }
 
             playerMagicSquares[magicSquareIndex].gameObject .SetActive(true);
+
+            playerMagicUI.ChangeIcon(magicSquareIndex);
         }
 
 
@@ -80,6 +87,8 @@ public class PlayerMagicSquareManager : MonoBehaviour
                 magicSquareIndex = i;
 
                 playerMagicSquares[magicSquareIndex ] .gameObject.SetActive(true) ;
+
+                playerMagicUI.ChangeIcon(magicSquareIndex);
 
                 break;
             }

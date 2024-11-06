@@ -9,6 +9,10 @@ public class EnemyRoomManager : MonoBehaviour
     private List<Movement> enemies;
 
 
+    [SerializeField]
+    private GameObject door;
+
+
     private void Start()
     {
         foreach(Transform tr in GetComponentInChildren<Transform>())
@@ -33,6 +37,27 @@ public class EnemyRoomManager : MonoBehaviour
         foreach (Movement move in enemies)
         {
             move.HasPlayerTarget = false;
+        }
+    }
+
+
+    public void RemoveEnemy(Movement enemy)
+    {
+        enemies.Remove(enemy);
+
+        CheckToUnlockGate();
+    }
+
+
+
+    void CheckToUnlockGate()
+    {
+        if (enemies.Count == 0)
+        {
+            if (door)
+            {
+                door.SetActive(false);
+            }
         }
     }
 }

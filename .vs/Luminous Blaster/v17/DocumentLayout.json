@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|d:\\ge3a220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\luminous blaster\\luminous blaster\\luminous blaster\\assets\\scripts\\ememies\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ememies\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|d:\\ge3a220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\luminous blaster\\luminous blaster\\luminous blaster\\assets\\scripts\\ememies\\enemyroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ememies\\enemyroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\ememies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ememies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\player\\playermagicsquaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermagicsquaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\magic\\magicpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\magic\\magicpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\magic\\magic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\magic\\magic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|d:\\ge3a220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\luminous blaster\\luminous blaster\\luminous blaster\\assets\\scripts\\player\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\magicsquare\\magicsquaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\magicsquare\\magicsquaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\character\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\character\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\camera\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyRoom.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\EnemyRoom.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ememies\\EnemyRoom.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\EnemyRoom.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ememies\\EnemyRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:47:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyRoomManager.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\EnemyRoomManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ememies\\EnemyRoomManager.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\EnemyRoomManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ememies\\EnemyRoomManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:46:57.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwFwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:32:44.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerShoot.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Player\\PlayerShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerShoot.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Player\\PlayerShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerShoot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:38:31.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MagicPool.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Magic\\MagicPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Magic\\MagicPool.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Magic\\MagicPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Magic\\MagicPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:37:40.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ememies\\Enemy.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ememies\\Enemy.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAQwEEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:37:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Magic.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Magic\\Magic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Magic\\Magic.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Magic\\Magic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Magic\\Magic.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAFQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:56:35.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMagicSquareManager.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Player\\PlayerMagicSquareManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMagicSquareManager.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Player\\PlayerMagicSquareManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMagicSquareManager.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAUwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:04:46.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MagicSquareManager.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\MagicSquare\\MagicSquareManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MagicSquare\\MagicSquareManager.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\MagicSquare\\MagicSquareManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MagicSquare\\MagicSquareManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:09:56.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Character\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Movement.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Character\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Movement.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:19:51.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Health.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Character\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Health.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Character\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Health.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:25:11.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Camera\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraShake.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Camera\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraShake.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:26:53.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:07:22.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

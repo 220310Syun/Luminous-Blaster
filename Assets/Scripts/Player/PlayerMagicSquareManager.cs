@@ -129,5 +129,8 @@ public class PlayerMagicSquareManager : MonoBehaviour
 
 
         cameraShake.ShakeCamera(cameraShakeTimer);
+
+
+        SoundManager.Instance.PlaySE(magicSquareIndex);
     }
 }

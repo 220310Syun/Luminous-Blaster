@@ -1539,7 +1539,7 @@ MonoBehaviour:
   - {fileID: 2040234785}
   - {fileID: 41768608}
   - {fileID: 1057754486}
-  damageAmount: 5
+  damageAmount: 1
   shootTimeDelay: 2
 --- !u!114 &280324570
 MonoBehaviour:
@@ -1553,7 +1553,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6988cd20c99f9c24f9ddaf8fe189d776, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 5
+  maxHealth: 100
 --- !u!50 &280324571
 Rigidbody2D:
   serializedVersion: 4

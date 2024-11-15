@@ -24,7 +24,7 @@ public class Enemy : Movement
     private float damageCooldownTimer;
 
     [SerializeField]
-    private int damageAmount = 1;
+    private int damageAmount = 0; //1Ç©ÇÁ0Ç…í≤êﬂ
 
 
     private Health enemyHealth;

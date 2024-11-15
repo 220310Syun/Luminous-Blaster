@@ -172,4 +172,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deactivateTimer: 3
-  damageAmount: 3
+  damageAmount: 1

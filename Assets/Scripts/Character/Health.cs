@@ -7,7 +7,7 @@ public class Health : MonoBehaviour
 
 
     [SerializeField]
-    private int maxHealth = 5;
+    private int maxHealth = 100;  //MaxHealth‚ğ5‚©‚ç100‚É•ÏX
     private int health;
     private Animator animator;
 

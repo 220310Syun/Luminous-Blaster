@@ -11,7 +11,7 @@ public class NewBehaviourScript : MonoBehaviour
     private Rigidbody2D rb;
 
     [SerializeField]
-    private int damageAmount = 3;
+    private int damageAmount = 1; //弾のダメージを3から1に変更
 
     private bool dealthDamage;
 

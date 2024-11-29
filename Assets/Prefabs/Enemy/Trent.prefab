@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 3697144698534016115}
   - component: {fileID: 4111599868382814027}
   - component: {fileID: 659383193772835326}
+  - component: {fileID: 2417478062022622163}
   m_Layer: 7
   m_Name: Trent
   m_TagString: Enemy
@@ -245,8 +246,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xSpeed: 2.5
   ySpeed: 2.5
-  Test: 1
   chaseSpeed: 1.8
   turningDelay: 1
   damageCooldown: 1
   damageAmount: 1
+--- !u!114 &2417478062022622163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5120318927628735033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6101f9c621281ee43a3095be08b81bec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chaseSpeed: 1

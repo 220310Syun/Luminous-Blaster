@@ -61,7 +61,7 @@ public class PlayerMovement : Movement
         {
             tempScale.x = Mathf.Abs(tempScale.x);
         }
-        else if (y > 0)
+        else if (x < 0)
         {
             tempScale.x = -Mathf.Abs(tempScale.x);//-1* -1
         }

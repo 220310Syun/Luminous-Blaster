@@ -10,7 +10,7 @@ public class Enemy : Movement
     private Transform player;
     private Vector3 playerLastPos, startPos, movementPos;
     [SerializeField]
-    private float chaseSpeed = 0.8f, turningDelay = 1f;
+    private float chaseSpeed = 0.5f, turningDelay = 1f;
     private float lastFollowTime, turningTimeDelay = 1f;
 
 
@@ -112,15 +112,16 @@ public class Enemy : Movement
 
     void Chase()
     {
-        if (Time.time - lastFollowTime > turningTimeDelay) 
+        if (Time.time - lastFollowTime > turningTimeDelay)
         {
             playerLastPos = player.transform.position;
             lastFollowTime = Time.time;
         }
 
-    Å@Å@if (Vector3.Distance(transform.position, playerLastPos) > 0.15f)
+        if (Vector3.Distance(transform.position, playerLastPos) > 0.15f)
         {
-            movementPos = (playerLastPos - transform.position).normalized * chaseSpeed;
+            // ë¨ìxÇí≤êÆ
+            movementPos = (playerLastPos - transform.position).normalized * (chaseSpeed * Time.deltaTime);
         }
         else
         {

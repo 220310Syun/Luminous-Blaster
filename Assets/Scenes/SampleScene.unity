@@ -420,7 +420,7 @@ GameObject:
   m_Component:
   - component: {fileID: 64073556}
   - component: {fileID: 64073557}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2335,7 +2335,7 @@ GameObject:
   m_Component:
   - component: {fileID: 404128204}
   - component: {fileID: 404128205}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2419,7 +2419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 417700803}
   - component: {fileID: 417700804}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2580,7 +2580,7 @@ GameObject:
   m_Component:
   - component: {fileID: 439640431}
   - component: {fileID: 439640432}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21071,7 +21071,7 @@ GameObject:
   m_Component:
   - component: {fileID: 555758225}
   - component: {fileID: 555758226}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21850,7 +21850,7 @@ GameObject:
   m_Component:
   - component: {fileID: 637104353}
   - component: {fileID: 637104354}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22380,7 +22380,7 @@ GameObject:
   m_Component:
   - component: {fileID: 761304278}
   - component: {fileID: 761304279}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22794,7 +22794,7 @@ GameObject:
   m_Component:
   - component: {fileID: 788904657}
   - component: {fileID: 788904658}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23144,7 +23144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 975200265}
   - component: {fileID: 975200266}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23515,7 +23515,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1049513082}
   - component: {fileID: 1049513083}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29157,7 +29157,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1197725655}
   - component: {fileID: 1197725656}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29896,7 +29896,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1359940819}
   - component: {fileID: 1359940820}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29980,7 +29980,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1571622363}
   - component: {fileID: 1571622362}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Doors1
   m_TagString: Blocking
   m_Icon: {fileID: 0}
@@ -30019,7 +30019,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.71155024, y: 3.8627257}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -30030,7 +30030,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 5.540366, y: 1.271116}
   m_EdgeRadius: 0
 --- !u!4 &1571622363
 Transform:
@@ -30041,7 +30041,7 @@ Transform:
   m_GameObject: {fileID: 1571622361}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.33, y: -0.07, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -30062,7 +30062,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1571955886}
   - component: {fileID: 1571955887}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30369,7 +30369,7 @@ GameObject:
   - component: {fileID: 1635902132}
   - component: {fileID: 1635902133}
   m_Layer: 0
-  m_Name: RoomManaget1
+  m_Name: RoomManager1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30404,7 +30404,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemies: []
-  door: {fileID: 1671747277}
+  doors:
+  - {fileID: 1671747277}
+  doorUnlockCounts: 00000000
 --- !u!1 &1671747277
 GameObject:
   m_ObjectHideFlags: 0
@@ -30415,13 +30417,13 @@ GameObject:
   m_Component:
   - component: {fileID: 1671747279}
   - component: {fileID: 1671747278}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Doors2
   m_TagString: Blocking
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!61 &1671747278
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30454,7 +30456,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.7793164, y: 3.9643502}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -30465,7 +30467,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 5.2693005, y: 1.3388348}
   m_EdgeRadius: 0
 --- !u!4 &1671747279
 Transform:
@@ -30497,7 +30499,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1688944436}
   - component: {fileID: 1688944437}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30690,7 +30692,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1763878438}
   - component: {fileID: 1763878439}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Door (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31200,7 +31202,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1952602340}
   - component: {fileID: 1952602339}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Doors3
   m_TagString: Blocking
   m_Icon: {fileID: 0}
@@ -31239,7 +31241,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.6437826, y: 3.862699}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -31250,7 +31252,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 5.404832, y: 1.2710657}
   m_EdgeRadius: 0
 --- !u!4 &1952602340
 Transform:

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\ememies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ememies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\ememies\\enemyroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ememies\\enemyroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|d:\\ge3a220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\luminous blaster\\luminous blaster\\luminous blaster\\assets\\scripts\\ememies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ememies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\spawners\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ememies\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|d:\\ge3a220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\luminous blaster\\luminous blaster\\luminous blaster\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E955657C-0078-9401-CAB7-40C25C19377D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -102,17 +102,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Ememies\\Enemy.cs",
               "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Ememies\\Enemy.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAAAIEAAAAFAAAA",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAcwIEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T07:37:40.729Z",
               "EditorCaption": ""
@@ -127,18 +127,17 @@
               "RelativeToolTip": "Assets\\Scripts\\Ememies\\EnemyRoom.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:47:02.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T06:47:02.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EnemyRoomManager.cs",
               "DocumentMoniker": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\EnemyRoomManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Ememies\\EnemyRoomManager.cs",
               "ToolTip": "D:\\GE3A220310\\2\u4EBA\u30B2\u30FC\u30E0\u4F5C\u6210\\Luminous Blaster\\Luminous Blaster\\Luminous Blaster\\Assets\\Scripts\\Ememies\\EnemyRoomManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Ememies\\EnemyRoomManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T06:46:57.434Z",
               "EditorCaption": ""
@@ -153,8 +152,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Spawners\\EnemySpawner.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAIwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T04:31:42.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T04:31:42.063Z"
             },
             {
               "$type": "Document",
@@ -166,8 +164,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAQwD8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T06:32:44.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T06:32:44.209Z"
             },
             {
               "$type": "Document",
@@ -179,8 +176,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Character\\Movement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T06:19:51.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T06:19:51.002Z"
             },
             {
               "$type": "Document",
@@ -192,8 +188,7 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyChase(1)\\EnemyChase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:46:40.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T08:46:40.698Z"
             },
             {
               "$type": "Document",
@@ -205,8 +200,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Ememies\\BossMove.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T04:07:59.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T04:07:59.561Z"
             },
             {
               "$type": "Document",
